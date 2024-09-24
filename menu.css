@@ -1,0 +1,16 @@
+.Menu
+{
+    background-color: black;
+    color: white;
+}
+
+.MenuLista
+{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    width: 800px;
+    margin: auto;
+    height: 50px;
+    align-items: center;
+}
